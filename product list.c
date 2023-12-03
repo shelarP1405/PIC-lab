@@ -1,3 +1,4 @@
+// product list using linked list
 #include<stdio.h>
 #include<stdlib.h>
 struct product
